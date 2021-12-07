@@ -1,6 +1,7 @@
 # NFL Draft Data and Summary
 
 ## Purpose
+## Goals
 ## Tools 
 ## Resources
 ## Summary
