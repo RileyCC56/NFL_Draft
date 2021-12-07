@@ -1,2 +1,9 @@
-# NFL_Draft
-Web-Scraping project to determine a correlation between Players Positions, Draft Results, Years of Success
+# NFL Draft Data and Summary
+
+## Purpose
+## Tools 
+## Resources
+## Summary
+### Problems and issues
+
+
