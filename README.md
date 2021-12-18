@@ -20,6 +20,7 @@ https://public.tableau.com/app/profile/riley.corpac/viz/NFL_Draft_Data/Sheet2?pu
 
 
 ## Goals:
+Determine if there is a better chance to draft a certain position in a certain round based off Pro-Bowl, All-Pro apperances as well as career length.
 
 ## Tools: 
 Python, Pandas, Seaborn, Matplotlib
