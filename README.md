@@ -1,6 +1,6 @@
 # NFL Draft Data and Summary
 ## Intro:
-Every year 32 teams of the NFL participate in a 7 round draft where each team has the chance to select at the highly regarded collegiate talent. 
+Every year 32 teams of the NFL participate in a 7-round draft where each team has the chance to select at the highly regarded collegiate talent. 
 
 ## Purpose:
 The following exploratory data analysis looks at the previous twenty years of the draft results and looks to answer the following questions.
@@ -12,15 +12,15 @@ Does a player’s draft round and position correlate to the length of their care
 
 What is the possibility of selecting a Pro-bowl, or All-Pro player based on their draft round?
 
-What is the average Pro-Bowl selections, First Team All-Pro, Starter Years, Games Played, Games Started, Career Length, per round per position
+What is the average Pro-Bowl selections, First Team All-Pro, Starter Years, Games Played, Games Started, Career Length, per round per position?
 
-# Weblink Visulizations
+# Weblink Visualization’s
 
 https://public.tableau.com/app/profile/riley.corpac/viz/NFL_Draft_Data/Sheet2?publish=yes
 
 
 ## Goals:
-Determine if there is a better chance to draft a certain position in a certain round based off Pro-Bowl, All-Pro apperances as well as career length.
+Determine if there is a better chance to draft a certain position in a certain round based off Pro-Bowl, All-Pro appearances as well as career length.
 
 ## Tools: 
 Python, Pandas, Seaborn, Matplotlib
@@ -32,5 +32,3 @@ The following data was collected from the Stat Head webpage. The first goal was 
 
 ## Summary
 ### Problems and issues
-
-
