@@ -24,4 +24,6 @@ https://stathead.com/football/draft_finder.cgi
 
 ## Visualization Webpage: 
 
+https://app.powerbi.com/links/rCllXooYKz?ctid=ceae1e0f-43f7-4175-be6e-a37351af2598&pbi_source=linkShare
+
 ## Summary:
