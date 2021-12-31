@@ -1,34 +1,29 @@
 # NFL Draft Data and Summary
 ## Intro:
-Every year 32 teams of the NFL participate in a 7-round draft where each team has the chance to select at the highly regarded collegiate talent. 
+The following data was sourced from Stathead, an affiliate with Pro Football Reference source. In my attempt to web scrape the following data I was limited to only the first page of data or 100 columns worth of draft data. I do believe my experience was a limitation on receiving all 5,513 rows of draft data spanning from 2000-2021. 
 
-## Purpose:
-The following exploratory data analysis looks at the previous twenty years of the draft results and looks to answer the following questions.
+The data I determined to collect was based on the decision of including one of the oldest current players of Tom Brady as he himself is outlier in regards to his success and draft position.
 
-## Questions we hope to answer:
-Is there a higher chance that NFL teams can draft a more consistent valued draft if they pick certain positions in specific rounds of the NFL Draft?
+As I was limited to only 100 rows of data when web scraping, I manually clicked through each page and quickly copied and paste the data into an excel spreadsheet to gather all the information quickly.
 
-Does a player’s draft round and position correlate to the length of their career within the NFL?
+The data itself was clean and organized and very easily prepared to be explored with a few changes. One transformation I determined was to categorize a few of the positions into one such as combing all data that fell under ‘NT’, ‘DE’, ‘DT’ as ‘DL’. I processed the same technique with the ‘OLB’, ‘ILB’, as ‘LB and ‘T’, ‘C’,’G’, as ‘OL’. By slightly adjusting the data to compress the position slightly I believed this will just make my end visualizations less intimating by having 10 positions rather than the original 19.  
 
-What is the possibility of selecting a Pro-bowl, or All-Pro player based on their draft round?
+In the timeframe from 2000-2020, there have been team location changes such as St. Louis Rams to the Los Angeles Rams, Oakland Raiders to Las Vegas Raiders, San Diego Chargers to the Los Angeles Chargers. With these slight changes I wanted to keep the original data for the original location just for my own personal curiosity and I understood that this would not have an affect of the final outcomes I was looking for. 
 
-What is the average Pro-Bowl selections, First Team All-Pro, Starter Years, Games Played, Games Started, Career Length, per round per position?
+In research I found a similar analysis from a Dustin Ryan that I found visually interesting and applied a chart similar to his. With this knowledge I then created two new columns within the data frame that provided a True or False if the player within our data was ever rewarded with Pro-Bowl or First Team All-Pro accolades. 
 
-# Weblink Visualization’s
+## “The best ability is availability” 
 
-https://public.tableau.com/app/profile/riley.corpac/viz/NFL_Draft_Data/Sheet2?publish=yes
+The motivation I had behind this project was to generally get an understanding if a player’s position, and draft round played a possible relation to their success within the NFL. Understanding there are more variables that come into account to determine a player’s career success I was curious to see if an NFL team on draft day was torn between a decision that they would make a data driven decision. A decision that if they understand that a certain position has a higher probability of becoming a serviceable player to their team for years to come over another based on my recent findings.
 
+## Tools:
+Python, Pandas, MatPlotLib, Power Bi
 
-## Goals:
-Determine if there is a better chance to draft a certain position in a certain round based off Pro-Bowl, All-Pro appearances as well as career length.
-
-## Tools: 
-Python, Pandas, Seaborn, Matplotlib
-
-## Resources
+## Resources:
 https://stathead.com/football/draft_finder.cgi
 
-The following data was collected from the Stat Head webpage. The first goal was to web scrape the page but as the desired results were filtered through many different columns the web scraping URL was only collecting the first 100 results. Leading to me manually copying the results into a CSV where I was then able to read the data into a Jupyter Notebook to begin the analysis. 
+## Visualization Webpage: 
 
-## Summary
-### Problems and issues
+https://app.powerbi.com/links/rCllXooYKz?ctid=ceae1e0f-43f7-4175-be6e-a37351af2598&pbi_source=linkShare
+
+## Summary:
