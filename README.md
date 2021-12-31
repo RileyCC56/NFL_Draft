@@ -19,6 +19,9 @@ The motivation I had behind this project was to generally get an understanding i
 ## Tools:
 Python, Pandas, MatPlotLib, Power Bi
 
+![Presentation1](https://user-images.githubusercontent.com/81484054/147833267-16c8cf5e-55b6-4358-bf67-9c9b54e43b11.png)
+
+
 ## Resources:
 https://stathead.com/football/draft_finder.cgi
 
