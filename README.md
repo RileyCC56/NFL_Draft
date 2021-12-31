@@ -27,3 +27,17 @@ https://stathead.com/football/draft_finder.cgi
 https://app.powerbi.com/links/rCllXooYKz?ctid=ceae1e0f-43f7-4175-be6e-a37351af2598&pbi_source=linkShare
 
 ## Summary:
+Slide 1
+The following visualization shows the 20 years of draft results if a player was awarded with a Pro-Bowl, and First Team All-Pro accolade. 
+
+Given the current data we do see that most of the players selected for a Pro-Bowl or First-Team All-Pro selection were selected within the first 100 picks of each draft. 
+
+Slide 2
+The average career length of a NFL player is 3.3 years, from the given graph we are able to see the average length for all 257 draft picks that were selected within the last 20 years. An obvious metric we find is that the early draft picks tend to have longer career lengths then those of the later picks.
+One interesting aspect I found from this data is the history of the 80th overall pick. This particular pick has a below average career length of 2.64 years within the NFL. After further research I have found that within the past 20 years there have been zero awarded Pro-Bowl or First Team All-Pro players that were selected 80th overall. With this data maybe teams will be willing to trade away this particular pick given the recent track record.
+The lower visualization’s shows the average career length per round. As the average career length is 3.3 years, we can see that players selected within the first four rounds are favored to have a career higher than the career average. 
+
+Slide 3
+Based on the following slide we can understand the average career length per position per draft round. As this data was the main motivation for the project, I am pleased to see we can find that based on our 20 years of data that certain positions have longer projected career lengths over others. For instance, a Tight End (‘TE’) is within the top 3 of career lengths for five of the seven rounds showing that a TE could be a safe pick towards the later rounds.
+
+The objective of this visualization was to show that each round does provide the data that when selecting a certain position per round your chances of selecting a player with a longer career is compared to others.
